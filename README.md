@@ -1,6 +1,7 @@
 # 4
 ![Image text](https://github.com/16301116/4/blob/master/1.png)  
-![Image text](https://github.com/16301116/4/blob/master/2.png)
+![Image text](https://github.com/16301116/4/blob/master/2.png)  
+![Image text](https://github.com/16301116/4/blob/master/3.jpg)  
 Room其实就是一个orm，抽象了SQLite的使用，原生支持LiveData和Rxjava嵌套使用。  
 Room有3个主要组件  
 Database ：数据库  
