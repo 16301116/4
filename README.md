@@ -1,4 +1,7 @@
-# 4
+# 4  
+成员16301116 朱永锐  
+    16301093 黄镇海
+  
 ![Image text](https://github.com/16301116/4/blob/master/1.png)  
 ![Image text](https://github.com/16301116/4/blob/master/2.png)  
 ![Image text](https://github.com/16301116/4/blob/master/3.jpg)  
