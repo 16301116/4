@@ -1,14 +1,13 @@
 # 4
 ![Image text](https://github.com/16301116/4/blob/master/1.png)  
 ![Image text](https://github.com/16301116/4/blob/master/2.png)
-![Image text](https://github.com/16301116/4/blob/master/3.png)  
 Room其实就是一个orm，抽象了SQLite的使用，原生支持LiveData和Rxjava嵌套使用。  
 Room有3个主要组件  
 Database ：数据库  
 Entity : 代表数据库一个表结构  
 Dao : 包含访问数据库的方法  
 这次作业主要对老师给的sample进行了模仿  
-我也在网上查阅了相关的资料  
+我也在网上查阅了相关的资料和官方给出的ROOM API的使用方法。
 当一个类用@Entity注解并且被@Database注解中的entities属性所引用，Room就会在数据库中为那个entity创建一张表。  
 
 Room默认把类名作为数据库的表名。如果你想用其它的名称，使用@Entity注解的tableName属性。  
